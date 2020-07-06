@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "$schema": "http://org.example/base",
+  "required": true,
+  "properties": {
+    "first": {
+      "type": "string",
+      "id": "http://org.example/base/first",
+      "required": false
+    },
+    "second": {
+      "type": "string",
+      "id": "http://org.example/base/second",
+      "required": false
+    }
+  }
+}
